@@ -1,0 +1,13 @@
+created: 20180412122900403
+modified: 20180412123058672
+tags: $:/tags/Stylesheet
+title: $:/plugins/mklauber/SoundPad/css
+type: text/css
+
+.available-sounds {
+	border: 1px solid <<colour message-border>>;
+	background-color: <<colour message-background>>;
+	padding: 1em;
+	height: 400px;
+	position: relative;
+}
